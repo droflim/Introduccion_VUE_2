@@ -1,4 +1,4 @@
-# introduccionvue
+# Introduccion VUE 2
 
 ## Project setup
 ```
